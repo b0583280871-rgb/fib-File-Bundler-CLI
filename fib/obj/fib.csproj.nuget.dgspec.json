@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\משפחתנו האהובה\\ברכי\\לימודים\\מסלול\\שנה ב\\פרקטיקוד\\CLI- פרויקט ראשון\\fib-File-Bundler-CLI-main\\fib\\fib.csproj": {}
+  },
+  "projects": {
+    "C:\\משפחתנו האהובה\\ברכי\\לימודים\\מסלול\\שנה ב\\פרקטיקוד\\CLI- פרויקט ראשון\\fib-File-Bundler-CLI-main\\fib\\fib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\משפחתנו האהובה\\ברכי\\לימודים\\מסלול\\שנה ב\\פרקטיקוד\\CLI- פרויקט ראשון\\fib-File-Bundler-CLI-main\\fib\\fib.csproj",
+        "projectName": "fib",
+        "projectPath": "C:\\משפחתנו האהובה\\ברכי\\לימודים\\מסלול\\שנה ב\\פרקטיקוד\\CLI- פרויקט ראשון\\fib-File-Bundler-CLI-main\\fib\\fib.csproj",
+        "packagesPath": "C:\\Users\\This_User\\.nuget\\packages\\",
+        "outputPath": "C:\\משפחתנו האהובה\\ברכי\\לימודים\\מסלול\\שנה ב\\פרקטיקוד\\CLI- פרויקט ראשון\\fib-File-Bundler-CLI-main\\fib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\This_User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net80"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net80": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net80": {
+          "dependencies": {
+            "System.CommandLine": {
+              "target": "Package",
+              "version": "[2.0.0-beta4.22272.1, )"
+            },
+            "System.CommandLine.NamingConventionBinder": {
+              "target": "Package",
+              "version": "[2.0.0-beta4.22272.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
